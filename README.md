@@ -22,9 +22,10 @@ The project consists of the following components:
 ## Setup and Installation
 
 1. Clone the repository:
+  https://github.com/aviapd4/FastAPI.git
 
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt
 
 ## Running the Application
